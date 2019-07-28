@@ -1,0 +1,16 @@
+public class Main {
+
+    public static void main(String[] args) {
+
+    }
+
+    public static void isPositiveOrNegative(int x){
+        int x = 2;
+        System.out.println("Ваше число положительное!!!");
+            if(x >= 0);
+                else{
+                    System.out.println("Ваше число отрицательное!!!");
+                }
+            }
+        }
+}

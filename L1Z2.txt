@@ -1,0 +1,16 @@
+public class Main {
+
+    public static void main(String[] args) {
+        byte b = 1;
+        short s = 200;
+        int i = 3000;
+        long l = 40000L;
+        float f = 215.4f;
+        double d = 555.55;
+        boolean bool = true; //true or false.
+        char c = 'A';
+        String str = "String";
+        // Создал переменные всех пройденных типов данных, и инициализировал их значения;
+
+    }
+}
